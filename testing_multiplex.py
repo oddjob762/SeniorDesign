@@ -1,7 +1,6 @@
 import RPi.GPIO as GPIO
 import time
-import os
-import sys
+
 
 GPIO.setmode(GPIO.BOARD)
 
