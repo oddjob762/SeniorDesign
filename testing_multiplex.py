@@ -44,3 +44,6 @@ while option:
 print('Exiting now')
 
 time.sleep(5)
+
+def showGitWorks():
+	print('Github is awesome!')
