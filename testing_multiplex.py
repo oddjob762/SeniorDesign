@@ -1,6 +1,10 @@
 import RPi.GPIO as GPIO
 import time
 
+# Note this is a preliminary version.
+# Need to tie in with RPi and proximity sensors.
+# - Jonathan
+
 GPIO.setmode(GPIO.BOARD)
 
 s0 = 23
