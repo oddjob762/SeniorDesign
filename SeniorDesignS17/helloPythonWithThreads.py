@@ -1,0 +1,1 @@
+#waiting on learning threading. trying to solve simple voltage divider problem 
